@@ -1,0 +1,19 @@
+
+body {
+	background-color: #aaaaff;
+}
+
+#chart svg {
+  height: 600px;
+
+}
+
+.content {
+	width: 1000px;
+	margin: auto;
+	background-color: white;
+	padding: 20px;
+	box-shadow:  0 0 10px rgba(0,0,0,0.5);
+	font-family: arial;
+	text-align: center;
+}
